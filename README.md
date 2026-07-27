@@ -463,7 +463,7 @@
     <div class="section-inner about-grid">
       <div>
         <div class="eyebrow">whoami.sh</div>
-        <h2 class="sec-title">System Overview</h2>
+        <h2 class="sec-title"> --About Me</h2>
         <p>I'm <strong>Prasad Sudhir Thorat</strong>, a second-year Integrated B.Tech Computer Science & Engineering student at <strong>Sanjivani University, Kopargaon</strong>. My focus sits at the intersection of <strong>cybersecurity, cloud infrastructure, and applied AI</strong> — I believe in understanding systems thoroughly to know precisely where they break.</p>
         <p>Over the past year, I completed a hands-on <strong>cybersecurity internship</strong>, worked through cloud architecture labs on AWS ECS, and stacked up certifications across programming, digital forensics, and generative AI tooling. I actively share my technical learnings — recently covering computer networking, IP addressing, and subnetting on LinkedIn.</p>
         <p>Beyond the technical track, I stay curious about how AI tools redefine productivity and problem-solving, and I actively participate in campus life — from pitching hackathon ideas to competing in national quizzes.</p>
