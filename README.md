@@ -174,7 +174,7 @@
     transform: scale(1.05);
   }
   .photo-frame::after {
-    content: '● SECURE';
+    content: '[(https://github.com/prasadthorat25uid-arch/portfolio_prasad_29/blob/main/profile.jpg)';
     position: absolute; bottom: -15px; left: 50%; transform: translateX(-50%);
     font-family: var(--mono); font-size: 10px; letter-spacing: .2em;
     color: var(--teal); background: var(--bg-void);
@@ -414,7 +414,7 @@
 
 <div class="wrap">
   <nav>
-    <div class="nav-id"><span class="dot"></span> prasad@sanjivani:~$</div>
+    <div class="nav-id"><span class="dot"></span> Sai~Prasad</div>
     <div class="nav-links">
       <a href="#about" class="hover-target">about</a>
       <a href="#skills" class="hover-target">skills</a>
