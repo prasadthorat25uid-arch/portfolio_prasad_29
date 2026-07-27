@@ -174,7 +174,7 @@
     transform: scale(1.05);
   }
   .photo-frame::after {
-    content: '[(https://github.com/prasadthorat25uid-arch/portfolio_prasad_29/blob/main/profile.jpg)';
+    content: '[ ';
     position: absolute; bottom: -15px; left: 50%; transform: translateX(-50%);
     font-family: var(--mono); font-size: 10px; letter-spacing: .2em;
     color: var(--teal); background: var(--bg-void);
