@@ -174,7 +174,7 @@
     transform: scale(1.05);
   }
   .photo-frame::after {
-    content: '[ ';
+    content: '[ Sai~Prasad';
     position: absolute; bottom: -15px; left: 50%; transform: translateX(-50%);
     font-family: var(--mono); font-size: 10px; letter-spacing: .2em;
     color: var(--teal); background: var(--bg-void);
