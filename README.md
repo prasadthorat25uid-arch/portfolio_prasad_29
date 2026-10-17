@@ -439,7 +439,7 @@
         <div class="meta">Sanjivani University, Kopargaon — 2nd Year</div>
         <p class="tagline">Building a foundation across cybersecurity, cloud infrastructure, and applied AI — one certification, workshop, and hands-on project at a time. Breaking systems to understand how to secure them.</p>
         <div class="cta-row">
-          <a href="Prasad_Thorat_Resume.pdf" download class="btn btn-primary hover-target">
+          <a href="RESUME.jpeg" download class="btn btn-primary hover-target">
             <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4M7 10l5 5 5-5M12 15V3"/></svg>
             Decrypt Resume
           </a>
@@ -637,7 +637,7 @@
       <h2>Let's build something secure.</h2>
       <p>Always open to discussing internships, collaborations, or deep dives into cybersecurity, cloud architecture, and AI.</p>
       <div class="cta-row" style="justify-content:center;">
-        <a href="Prasad_Thorat_Resume.pdf" download class="btn btn-primary hover-target">↓ Download Resume</a>
+        <a href="RESUME.jpeg" download class="btn btn-primary hover-target">↓ Download Resume</a>
         <div class="icon-row">
           <a class="icon-btn hover-target" href="https://www.linkedin.com/in/prasad-thorat-a38578372" target="_blank" rel="noopener" title="LinkedIn">
             <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.03-1.85-3.03-1.85 0-2.14 1.45-2.14 2.94v5.66H9.36V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.45v6.29zM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12zM7.12 20.45H3.56V9h3.56v11.45z"/></svg>
