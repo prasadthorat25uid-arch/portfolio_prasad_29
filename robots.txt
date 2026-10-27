@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prasadthorat25uid-arch.github.io/portfolio_prasad_29/sitemap.xml
